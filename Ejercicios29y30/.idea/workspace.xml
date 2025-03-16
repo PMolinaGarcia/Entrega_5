@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d1f1e45-d899-492a-b0b0-31f19b81d9ee" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/matematicas/src/test/java/org/pr2/MatematicasTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/matematicas/src/test/java/org/pr2/MatematicasTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="5d1f1e45-d899-492a-b0b0-31f19b81d9ee" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,7 +102,7 @@
       <updated>1742140242621</updated>
       <workItem from="1742140243665" duration="1664000" />
       <workItem from="1742143028720" duration="405000" />
-      <workItem from="1742143782319" duration="418000" />
+      <workItem from="1742143782319" duration="767000" />
     </task>
     <servers />
   </component>
