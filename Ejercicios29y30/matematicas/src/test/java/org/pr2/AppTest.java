@@ -1,4 +1,4 @@
-package test.java.org.pr2;
+package org.pr2;
 
 import static org.junit.Assert.assertTrue;
 

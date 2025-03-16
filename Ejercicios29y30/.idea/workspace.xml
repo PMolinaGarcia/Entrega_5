@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5d1f1e45-d899-492a-b0b0-31f19b81d9ee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/matematicas/matematicas.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Ejercicios29y30.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Ejercicios29y30.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matematicas/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/matematicas/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matematicas/src/main/java/org/pr2/matematicas/Matematicas.java" beforeDir="false" afterPath="$PROJECT_DIR$/matematicas/src/main/java/org/pr2/matematicas/Matematicas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matematicas/src/test/java/org/pr2/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/matematicas/src/test/java/org/pr2/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matematicas/src/test/java/org/pr2/matematicas/MatematicasTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/matematicas/target/classes/main/java/org/pr2/matematicas/Matematicas.class" beforeDir="false" afterPath="$PROJECT_DIR$/matematicas/target/classes/main/java/org/pr2/matematicas/Matematicas.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matematicas/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/matematicas/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matematicas/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/matematicas/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/matematicas/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/matematicas/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ejercicios29y30/main/java/org/pr2/matematicas/Matematicas.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ejercicios29y30/org/pr2/App.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ejercicios29y30/org/pr2/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ejercicios29y30/test/java/org/pr2/matematicas/MatematicasTest.class" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;PMolinaGarcia&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/PMolinaGarcia/Entrega_5.git&quot;,
+    &quot;accountId&quot;: &quot;74a382e7-3e57-444c-946f-56bdc053543b&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2uPBHgPkBTdHOoqo4XpklEyp4Bm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.MatematicasTest (1).executor": "Run",
+    "JUnit.MatematicasTest.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "E:/Universidad/Asignaturas/Programacion_II/Ejercicios/Entrega_5/Ejercicios29y30",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="JUnit.MatematicasTest (1)">
+    <configuration name="MatematicasTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="matematicas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.pr2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="org.pr2" />
+      <option name="MAIN_CLASS_NAME" value="org.pr2.MatematicasTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatematicasTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="matematicas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="java.org.pr2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="java.org.pr2" />
+      <option name="MAIN_CLASS_NAME" value="java.org.pr2.MatematicasTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MatematicasTest (1)" />
+        <item itemvalue="JUnit.MatematicasTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d1f1e45-d899-492a-b0b0-31f19b81d9ee" name="Changes" comment="" />
+      <created>1742140242621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1742140242621</updated>
+      <workItem from="1742140243665" duration="1664000" />
+      <workItem from="1742143028720" duration="405000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
